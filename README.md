@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Majidj
+- 👋 Hi, I’m Majid Seralkhtem
 - 👀 I’m interested in Hacking & Programming
 - 🌱 I’m currently learning HTML & PHP
 - 💞️ I’m looking to collaborate on GitHub Community🙏❤️
