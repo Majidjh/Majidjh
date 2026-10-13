@@ -1,5 +1,5 @@
 
-<!---
+
 Majidjh/Majidjh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Pr# 💫 About Me:
 👋 Hi, I’m Majid Seralkhtem<br>👀 I’m interested in Hacking & Programming<br>🌱 I’m currently learning Machine learning and software engineering<br>💞️ I’m looking to collaborate on GitHub Community🙏❤️<br>📫 reach me {albossmido222@gmail.com} or WhatsApp: https://wa.me/qr/Z2E35L6HUCXOI1<br>Beginner in web design<br>Interested in learning Python and Artificial Intelligence<br>Bachelor of Information Technology Graduate
@@ -26,4 +26,4 @@ You can click the Pr# 💫 About Me:
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->eview link to take a look at your changes.
---->
+
